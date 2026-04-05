@@ -19,3 +19,5 @@ matplotlib
 langchain-huggingface
 langchain-experimental
 gradio
+pytest
+redis
